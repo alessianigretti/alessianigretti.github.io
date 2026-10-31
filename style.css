@@ -24,3 +24,4 @@
 .recommendations-footer .muted{margin:0}
 @media(max-width:760px){.recommendations-grid{grid-template-columns(2,minmax(0,1fr));gap:16px}.recommendation{padding:20px}.recommendations-grid .recommendation{grid-column:1/-1}.recommendations-footer{align-items;flex-direction;gap:14px}}
 @media(max-width:460px){.recommendations-grid{grid-template-columns:1fr}.recommendations-grid .recommendation}
+.publication{padding:24px}
